@@ -23,6 +23,7 @@ dsw.com
 farfetch.com
 forever21.com
 freepeople.com
+gymshark.com
 hm.com
 levis.com
 luisaviaroma.com

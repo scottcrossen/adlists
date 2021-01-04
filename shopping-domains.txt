@@ -48,6 +48,11 @@ shop.freepeople.com
 us.freepeople.com
 www.freepeople.com
 www2.freepeople.com
+gymshark.com
+shop.gymshark.com
+us.gymshark.com
+www.gymshark.com
+www2.gymshark.com
 hm.com
 shop.hm.com
 us.hm.com
