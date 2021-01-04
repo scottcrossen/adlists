@@ -1,4 +1,4 @@
-To create the final adlist, add all subdomains with this regex (selects all lines) and the following replacement pattern. Then copy the adlists to shopping-domains.txt
+To create the final adlist, add all subdomains with this regex (selects all lines) and the following replacement pattern.
 
 ```
 ^([^$]+)$
@@ -11,7 +11,7 @@ us.$1
 www.$1
 www2.$1
 ```
-
+Then copy the adlists to the file shopping-domains.txt. The adlist will be hosted at https://raw.githubusercontent.com/scottcrossen/adlists/main/shopping-domains.txt
 ```
 ae.com
 anthropologie.com
