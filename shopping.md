@@ -47,6 +47,7 @@ shopbop.com
 ssense.com
 stories.com
 theoutnet.com
+thereformation.com
 topshop.com
 urbanoutfitters.com
 verishop.com

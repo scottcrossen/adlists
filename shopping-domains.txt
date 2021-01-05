@@ -168,6 +168,11 @@ shop.theoutnet.com
 us.theoutnet.com
 www.theoutnet.com
 www2.theoutnet.com
+thereformation.com
+shop.thereformation.com
+us.thereformation.com
+www.thereformation.com
+www2.thereformation.com
 topshop.com
 shop.topshop.com
 us.topshop.com
